@@ -1,0 +1,2 @@
+/usr/bin/ar cr libcutils.a  CMakeFiles/cutils.dir/src/tsearch_binarytree.c.o CMakeFiles/cutils.dir/src/hashset.c.o CMakeFiles/cutils.dir/src/tsearch_hs.c.o
+/usr/bin/ranlib libcutils.a

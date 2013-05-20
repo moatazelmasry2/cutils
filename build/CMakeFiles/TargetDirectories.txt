@@ -1,0 +1,3 @@
+/home/elmasry/workspace2/cutils/build/CMakeFiles/cutils.dir
+/home/elmasry/workspace2/cutils/build/CMakeFiles/tsearch2_bt_demo.dir
+/home/elmasry/workspace2/cutils/build/CMakeFiles/tsearch_hs_demo.dir

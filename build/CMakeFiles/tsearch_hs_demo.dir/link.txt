@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/tsearch_hs_demo.dir/examples/tsearch_hs_demo.c.o  -o tsearch_hs_demo -rdynamic libcutils.a 
